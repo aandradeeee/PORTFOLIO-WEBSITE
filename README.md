@@ -1,7 +1,6 @@
-[README.md](https://github.com/user-attachments/files/34746831/README.md)
+[README.md](https://github.com/user-attachments/files/34746988/README.md)
 # ALJO ANDRADE — Editable Portfolio Website
 
-A complete, responsive, static portfolio with an army green and gray editorial design inspired by the structure and general visual atmosphere of the site you shared: https://kgpvinaschmsu-hub.github.io/kath/#home
 
 This is an **original implementation**, using its own HTML, CSS, JavaScript, text, geometric artwork and interface mockups. No images, project code, or personal details were copied from the reference site.
 
